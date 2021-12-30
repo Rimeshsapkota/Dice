@@ -2,34 +2,35 @@
     margin: 0px;
     padding: 0px;
 }
+
 .container{
     position: absolute;
     background-color:blueviolet;
     height: 500px;
     width: 100%;
 }
+
 .headline{
     font-size: 70px;
     font-weight: bold;
     text-align: center;
 }
+
 .ludo{
-    
     display: flex;
     justify-content:space-around;
     align-content: center;
-    flex-direction: row;
-    
+    flex-direction: row;   
 }
+
 .butt{
     display: flex;
     justify-content: center;
     align-items: center;
 }
-.button{
-   
-     background-color: greenyellow; 
+
+.button{  
+    background-color: firebrick; 
     height:50px;
-    width: 100px;
-    
+    width: 100px;   
 }
